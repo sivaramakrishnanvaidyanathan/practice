@@ -4,7 +4,7 @@
 package dynamic_programming;
 
 /**
- * @author srk. Solution is taken from Elements of programming interviews.
+ * @author srk
  *
  */
 public class BinomialCoefficient {
